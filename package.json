@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JackSpades616/ArkhamHorrorHelper/issues"
   },
-  "homepage": "https://github.com/JackSpades616/ArkhamHorrorHelper#readme"
+  "homepage": "https://github.com/JackSpades616/ArkhamHorrorHelper#readme",
+  "dependencies": {
+    "electron": "^7.1.7"
+  }
 }
