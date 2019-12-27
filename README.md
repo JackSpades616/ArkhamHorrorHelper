@@ -1,1 +1,73 @@
 # ArkhamHorrorHelper
+
+
+## Spielkomponenten
+- ### Spielablauf
+    - Aktionsphase
+    - Monsterphase
+    - Begegnungsphase
+    - Mythosphase
+- ### Szenario
+    - Anzahl Ermittler
+    - Szenarioname
+    - Startfeld
+    - Racheeffekt
+    - Stadtviertel
+    - Stadtfeld
+    - Monsterstapel
+    - Mythosquelle
+    - Startmonster
+    - Startverderben
+    - Starthinweise
+    - Archiv
+    - Kodex
+    - Letzte Aufbauschritte
+    - Anomaliestapel
+    - Auslage
+- ### Spieler
+  - Name
+  - Beruf
+  - Primärrolle
+  - Sekundärrolle
+  - Spezialfähigkeit
+  - Fokuslimit
+  - Startausrüstung
+  - Leben
+  - Verstand
+  - Geld
+  - Fragmente
+  - Fokus
+  - Hinweise
+  - Schaden
+  - Horror
+  - Skills (Wissen, Einfluss, Wahrnehmung, Stärke, Willenskraft)
+- ### Monster
+    - Name
+    - Typ und Subtyp
+    - Erscheinungstext
+    - Aktivierungstext
+    - Geschwindigkeit
+    - Schaden und Horror
+    - Leben
+    - Stärkemodifikator
+    - Wahrnehmungsmodifikator
+    - Fragment
+    - Status (Kampfbereit, Erschöpft, Im Kampf)
+    - Jäger und Patrouille --> Zielfeld od. Beute (Zielermittler)
+- ### Gegenstände
+    - Name
+    - 
+- ### Verbündete
+
+- ### Zauber
+
+- ### Zustände
+---
+- ## Grundlagen
+- ### Proben
+    - Anzahl Fertigkeit
+    - Modifikation durch Gegenstände, Verbündete, Zauber, Zustände usw.
+    - Modifikation durch Monster
+    - Proben modifizieren (Hinweis-und/oder Fokusmarker)
+- ### Schaden und Horror
+
