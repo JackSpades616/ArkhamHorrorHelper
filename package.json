@@ -2,7 +2,7 @@
   "name": "arkham_horror_helper",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -34,7 +34,8 @@
     "babel-eslint": "^10.0.3",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.10",
+    "suppose": "^0.6.1"
   },
   "eslintConfig": {
     "root": true,
