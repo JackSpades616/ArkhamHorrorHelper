@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/JackSpades616/ArkhamHorrorHelper#readme",
   "dependencies": {
-    "electron": "^7.1.7",
+    "electron": "^18.3.7",
     "vue": "^2.6.11",
     "core-js": "^3.4.3"
   },
